@@ -12,8 +12,7 @@
   },
   "devDependencies": {
     "electron": "^28.2.7",
-    "nuxt-electron": "^0.7.0",
-    "vite-plugin-electron-renderer": "^0.14.5"
+    "nuxt-electron": "^0.7.0"
   },
   "dependencies": {
     "nuxt": "^3.11.1",
